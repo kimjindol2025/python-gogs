@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alpha",
+    "efficiency": 95,
+    "uptime_hours": 120
+  },
+  {
+    "name": "Beta",
+    "efficiency": 88,
+    "uptime_hours": 105
+  },
+  {
+    "name": "Gamma",
+    "efficiency": 92,
+    "uptime_hours": 115
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "lab_name": "data_analysis_lab",
+  "python_version": "3.12.12 (main, Jan 22 2026, 23:09:36) [Clang 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f0",
+  "installed_packages": [
+    {
+      "name": "numpy",
+      "version": "1.24.3"
+    },
+    {
+      "name": "pandas",
+      "version": "2.0.1"
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.7.1"
+    },
+    {
+      "name": "requests",
+      "version": "2.31.0"
+    }
+  ],
+  "requirements_file": "requirements.txt",
+  "philosophy": "기록이 증명이다 — gogs"
+}

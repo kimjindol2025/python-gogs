@@ -1,0 +1,27 @@
+{
+  "alice": {
+    "korean": 95,
+    "english": 88,
+    "math": 92
+  },
+  "bob": {
+    "korean": 87,
+    "english": 91,
+    "math": 85
+  },
+  "charlie": {
+    "korean": 92,
+    "english": 89,
+    "math": 94
+  },
+  "diana": {
+    "korean": 98,
+    "english": 94,
+    "math": 96
+  },
+  "eve": {
+    "korean": 90,
+    "english": 93,
+    "math": 89
+  }
+}
